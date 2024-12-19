@@ -41,6 +41,10 @@ Highlight gaps in the inventory and optimize stock levels.
 
 Q1. Write an SQL query to display the store id and whether the store is active or inactive.
 
+[<img src="./IMAGES/CODE_OUTPUTS/ACTIVE_OR_INACTIVE.png" alt="myql-logo" width="100"/>](https://www.mysql.com/) &nbsp;
+
+
+
 Q2. Write an SQL query to display the total no of rentals per customer.
 
 Q3. Write an SQL query to display the name of the movie, its length and categorise the movies according to the length.
