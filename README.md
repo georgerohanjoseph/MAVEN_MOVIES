@@ -77,6 +77,4 @@ Q19. Write an SQL query to display the replacement cost of a movie.
 
 QXX. Write an SQL query to display the person who spent the highest amount.
 
-QXXI. 
 
-Q11. 
