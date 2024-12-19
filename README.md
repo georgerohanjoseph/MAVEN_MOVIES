@@ -47,6 +47,9 @@ Q1. Write an SQL query to display the store id and whether the store is active o
 
 Q2. Write an SQL query to display the total no of rentals per customer.
 
+[<img src="./IMAGES/CODE_OUTPUTS/CUSTOMER_ID AND RENTALS.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+
+
 Q3. Write an SQL query to display the name of the movie, its length and categorise the movies according to the length.
 
 Q4. Write an SQL query to display the inventory id, store id, film name and its description.
