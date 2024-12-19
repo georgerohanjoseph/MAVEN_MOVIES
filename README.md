@@ -41,7 +41,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 Q1. Write an SQL query to display the store id and whether the store is active or inactive.
 
-[<img src="./IMAGES/CODE_OUTPUTS/ACTIVE_OR_INACTIVE.png" alt="myql-logo" width="100"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/ACTIVE_OR_INACTIVE.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
 
 
 
