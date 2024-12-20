@@ -29,7 +29,7 @@ Highlight gaps in the inventory and optimize stock levels.
 
 
 # Tools & Library Used
-[<img src="./IMAGES/CODE_OUTPUTS/mysql_logo.png" alt="myql-logo" width="300"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/mysql_logo.png" alt="myql-logo" width="300"/>] &nbsp;
 
 
 
@@ -41,103 +41,103 @@ Highlight gaps in the inventory and optimize stock levels.
 
 Q1. Write an SQL query to display the store id and whether the store is active or inactive.
 
-[<img src="./IMAGES/CODE_OUTPUTS/ACTIVE_OR_INACTIVE.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/ACTIVE_OR_INACTIVE.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 
 Q2. Write an SQL query to display the total no of rentals per customer.
 
-[<img src="./IMAGES/CODE_OUTPUTS/CUSTOMER_ID AND RENTALS.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/CUSTOMER_ID AND RENTALS.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q3. Write an SQL query to display the name of the movie, its length and categorise the movies according to the length.
 
-[<img src="./IMAGES/CODE_OUTPUTS/FILM_CATEGORISING.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/FILM_CATEGORISING.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q4. Write an SQL query to display the inventory id, store id, film name and its description.
 
-[<img src="./IMAGES/CODE_OUTPUTS/FILM_DESCRIPTION.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/FILM_DESCRIPTION.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q5. Write an SQL query to group the films by rating and to display the details of the films with respect to rating.
 
-[<img src="./IMAGES/CODE_OUTPUTS/FILM_DETAILS.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/FILM_DETAILS.png" alt="myql-logo" width="400"/>]&nbsp;
 
 
 Q6. Write an SQL query to display the name of the film and to describe whether the film can be recommended to the children or not.
 
-[<img src="./IMAGES/CODE_OUTPUTS/FIR_FOR_RECOMMENDATION.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/FIR_FOR_RECOMMENDATION.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q7. Write an SQL query to find out the name of the movie and to find its gross revenue.
 
-[<img src="./IMAGES/CODE_OUTPUTS/GROSS_REVENUE.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/GROSS_REVENUE.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q8. Write an SQL query to display the store with the highest store revenue.
 
-[<img src="./IMAGES/CODE_OUTPUTS/HIGHEST_STORE_REVENUE.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/HIGHEST_STORE_REVENUE.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q9. Write an SQL query to display the details of recent premium customers.
 
-[<img src="./IMAGES/CODE_OUTPUTS/LATEST_PREMIUM_CUSTOMERS.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/LATEST_PREMIUM_CUSTOMERS.png" alt="myql-logo" width="400"/>]&nbsp;
 
 
 Q10. Write an SQL query to display the details of loyal customers.
 
-[<img src="./IMAGES/CODE_OUTPUTS/Loyal_Customers_RewardViaEmail.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/Loyal_Customers_RewardViaEmail.png" alt="myql-logo" width="400"/>]&nbsp;
 
 
 Q11. Write an SQL query to display the month and also the number of rentals in that month.
 
-[<img src="./IMAGES/CODE_OUTPUTS/MONTH AND NO OF RENTALS.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/MONTH AND NO OF RENTALS.png" alt="myql-logo" width="400"/>]&nbsp;
 
 
 QXII. Write an SQL query to display the movies with behind the scenes.
 
-[<img src="./IMAGES/CODE_OUTPUTS/MOVIES_WITH_BTS.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/MOVIES_WITH_BTS.png" alt="myql-logo" width="400"/>]&nbsp;
 
 
 Q13. Write an SQL query to display the no of rentals per customer.
 
-[<img src="./IMAGES/CODE_OUTPUTS/No_of_rentals.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/No_of_rentals.png" alt="myql-logo" width="400"/>]&nbsp;
 
 
 Q14. Write an SQL query to display the payment details of first 100 customers.
 
-[<img src="./IMAGES/CODE_OUTPUTS/PAYMENT_OF_FIRST_100_CUSTOMERS.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/PAYMENT_OF_FIRST_100_CUSTOMERS.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q15. Write an SQL query to display the film name and its popularity.
 
-[<img src="./IMAGES/CODE_OUTPUTS/POPULARITY.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/POPULARITY.png" alt="myql-logo" width="400"/>]&nbsp;
 
 
 Q16. Write an SQL query to display the rating, rental duration and no. of films per rating.
 
-[<img src="./IMAGES/CODE_OUTPUTS/RATING&RENTAL_DURATION.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/RATING&RENTAL_DURATION.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q17. Write an SQL query to display the number of films based on rating.
 
-[<img src="./IMAGES/CODE_OUTPUTS/RATING_WISE_MOVIES.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/RATING_WISE_MOVIES.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q18. Write an SQL query to display the rental duration and no of films.
 
-[<img src="./IMAGES/CODE_OUTPUTS/RENTAL_DURATION.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/RENTAL_DURATION.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 Q19. Write an SQL query to display the replacement cost of a movie.
 
-[<img src="./IMAGES/CODE_OUTPUTS/REPLACEMENT_COST.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/REPLACEMENT_COST.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 QXX. Write an SQL query to display the person who spent the highest amount.
 
-[<img src="./IMAGES/CODE_OUTPUTS/SPENDING.png" alt="myql-logo" width="400"/>](https://www.mysql.com/) &nbsp;
+[<img src="./IMAGES/CODE_OUTPUTS/SPENDING.png" alt="myql-logo" width="400"/>] &nbsp;
 
 
 
